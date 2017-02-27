@@ -1,5 +1,5 @@
 package = "vizdoom"
-version = "1.1.1-0"
+version = "0.0.0-0"
 
 source = {
     url = "git://github.com/torrvision/ViZDoom"
